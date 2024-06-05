@@ -1,0 +1,77 @@
+[
+  {
+    "title": "Diabetes Predictor",
+    "imageSrc": "projects/diabPred.png",
+    "description": "Web app to predict the diabetes of humans and take necessary precautions.",
+    "skills": ["Django", "Python", "Html","CSS"],
+    "demo": "",
+    "source": "https://github.com/vaibhaviDixit/DiabetesPredWeb"
+  },
+  {
+    "title": "Real Time Property Availability system",
+    "imageSrc": "projects/hackathon.png",
+    "description": "A genuine, verified platform connecting property buyers and sellers seamlessly.",
+    "skills": ["Node", "Express", "Html", "Css"],
+    "demo": "https://mansionify.vercel.app/home",
+    "source": "https://github.com/vaibhaviDixit/mansionify"
+  },
+  {
+    "title": "Chat Bot for Educational Help",
+    "imageSrc": "projects/chatbot.png",
+    "description": "Build the AI chat bot for educational help",
+    "skills": ["PHP", "GraphenePHP Framework", "Mysql","HTML","CSS"],
+    "demo": "https://chat.kautilyaeducation.com/",
+    "source": "https://github.com/vaibhaviDixit/KEChat"
+  },
+  {
+    "title": "Course management website (TrilanceITSolutions)",
+    "imageSrc": "projects/trilance.png",
+    "description": "Course management website specializing in IT education, meticulously orchestrating course details and batch scheduling.",
+    "skills": ["PHP", "JS", "Mysql","HTML","CSS"],
+    "demo": "https://trilanceitsolutions.in/",
+    "source": "https://github.com/vaibhaviDixit/trilance"
+  },
+  {
+    "title": "Imperious Tours",
+    "imageSrc": "projects/travello.png",
+    "description": "Imperious Tours is a premier online destination offering curated travel experiences worldwide. It efficiently organizes and manages all tour-related data, ensuring seamless planning for travelers.",
+    "skills": ["PHP", "JS", "Mysql","HTML","CSS"],
+    "demo": "",
+    "source": "https://github.com/vaibhaviDixit/travello"
+  },
+  {
+    "title": "E-commerce Mess management",
+    "imageSrc": "projects/ecom.png",
+    "description": "E-commerce website for mess to ease mess operations of mess owner and customers",
+    "skills": ["PHP","AJAX", "JS", "Mysql","HTML","CSS"],
+    "demo": "",
+    "source": "https://github.com/vaibhaviDixit/Mess-Ecom-System"
+  },
+  {
+    "title": "Charity Tracker",
+    "imageSrc": "projects/charity.png",
+    "description": "Charity Tracker, which efficiently manages and tracks donations, donors, and fundraising activities. This system provides real-time insights and reporting to streamline charity operations and enhance transparency.",
+    "skills": ["PHP","PWA", "JS", "Mysql","HTML","CSS"],
+    "demo": "",
+    "source": "https://github.com/vaibhaviDixit/charitytracker"
+  },
+  {
+    "title": "Covid-19 Tracker",
+    "imageSrc": "projects/covid.png",
+    "description": "Provide real-time updates on global and regional COVID-19 statistics.",
+    "skills": ["PHP","JS", "API","HTML","CSS"],
+    "demo": "",
+    "source": "https://github.com/vaibhaviDixit/covid19"
+  }
+]
+
+
+
+
+
+
+
+
+
+
+

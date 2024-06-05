@@ -1,0 +1,29 @@
+[
+  {
+    "role": "PHP Developer",
+    "organisation": "Swami Vivekanand Yuvajana Samithi",
+    "startDate": "Dec, 2023",
+    "endDate": "July, 2024",
+    "experiences": ["Worked on GraphenePHP Framework", "SEO, Web Designing, Leardership"],
+    "imageSrc": "history/yuvajana.png"
+  },
+  {
+    "role": "Full Stack Web Developer",
+    "organisation": "Bodhi Technology",
+    "startDate": "Jan, 2023",
+    "endDate": "March, 2023",
+    "experiences": ["Advanced Full Stack Projects", "Solve real world problems"],
+    "imageSrc": "history/bodhi.png"
+  },
+  {
+    "role": "Freelancing",
+    "organisation": "Student",
+    "startDate": "Sept, 2020",
+    "endDate": "Oct, 2023",
+    "experiences": [
+      "Dynamic web apps",
+      "Designed databases, implemented RESTful APIs"
+    ],
+    "imageSrc": "history/freelance.png"
+  }
+]
