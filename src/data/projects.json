@@ -8,6 +8,14 @@
     "source": "https://github.com/vaibhaviDixit/DiabetesPredWeb"
   },
   {
+    "title": "eSubhalekha-Personalized Wedding Invitation",
+    "imageSrc": "projects/esubhalekha.png",
+    "description": "Personalized wedding invitation platform with features like RSVP, AR invitation, venue, guest management and more",
+    "skills": ["PHP", "GraphenePHP", "Html","CSS","JS","API"],
+    "demo": "https://esubhalekha.com/test/",
+    "source": "https://github.com/vaibhaviDixit/eSubhalekha"
+  },
+  {
     "title": "Real Time Property Availability system",
     "imageSrc": "projects/hackathon.png",
     "description": "A genuine, verified platform connecting property buyers and sellers seamlessly.",
@@ -59,9 +67,17 @@
     "title": "Covid-19 Tracker",
     "imageSrc": "projects/covid.png",
     "description": "Provide real-time updates on global and regional COVID-19 statistics.",
-    "skills": ["PHP","JS", "API","HTML","CSS"],
+    "skills": ["PHP","JS", "API","HTML","CSS","MYSQL"],
     "demo": "",
     "source": "https://github.com/vaibhaviDixit/covid19"
+  },
+  {
+    "title": "Clinic Billing System",
+    "imageSrc": "projects/clinic.png",
+    "description": "Provide real-time updates on global and regional COVID-19 statistics.",
+    "skills": ["JAVA","Swing", "MYSQL"],
+    "demo": "",
+    "source": "https://github.com/vaibhaviDixit/ClinicBillingSystem-JAVA"
   }
 ]
 
