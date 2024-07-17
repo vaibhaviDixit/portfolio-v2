@@ -20,7 +20,7 @@ export const Hero = () => {
           Passionate Full Stack Web Developer specializing in creating dynamic, responsive, and user-friendly applications.<br/> Let's bring your vision to life!<br/>
           Transforming ideas into engaging digital experiences.
         </p>
-        <a href="https://drive.google.com/file/d/12FADLYk2KA9MovTXLNKZUd8PScGSg32q/view?usp=sharing" className={styles.contactBtn} target="_blank">
+        <a href="https://github.com/vaibhaviDixit/Resume/blob/main/WebDeveloper_VaibhaviDixit.pdf" className={styles.contactBtn} target="_blank">
           Resume
         </a>
       </div>
